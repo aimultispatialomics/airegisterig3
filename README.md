@@ -16,5 +16,8 @@ npm install
 ## License
 MIT
 
+## Acknowledgements
+Thanks to all contributors.
+
 ## Contributing
 PRs welcome
