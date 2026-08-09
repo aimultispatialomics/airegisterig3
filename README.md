@@ -8,6 +8,8 @@ feature branch update
 
 ## Usage
 
+See the sections below for install and contribution guidelines.
+
 ## Install
 npm install
 
