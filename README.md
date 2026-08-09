@@ -4,3 +4,6 @@ prol
 feature branch update
 
 ## Usage
+
+## Install
+npm install
