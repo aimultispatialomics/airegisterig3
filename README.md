@@ -7,3 +7,6 @@ feature branch update
 
 ## Install
 npm install
+
+## License
+MIT
